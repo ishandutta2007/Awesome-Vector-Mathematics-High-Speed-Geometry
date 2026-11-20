@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Vector-Mathematics-High-Speed-Geometry/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Vector-Mathematics-High-Speed-Geometry?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Vector-Mathematics-High-Speed-Geometry/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Vector-Mathematics-High-Speed-Geometry?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Vector-Mathematics-High-Speed-Geometry/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Vector-Mathematics-High-Speed-Geometry?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -65,9 +65,9 @@ The table below features the premier hosted computational geometry environments,
 
 ## ⚡ Open-Source GitHub Projects & Libraries
 
-Below are the most prominent and high-performance open-source repositories powering vector mathematics, SIMD linear algebra, spatial indexing, mesh triangulation, and computational geometry kernels. Sorted in descending order by GitHub Stars ⭐.
+Below are the most prominent and high-performance open-source repositories powering vector mathematics, SIMD linear algebra, spatial indexing, mesh triangulation, and computational geometry kernels. Sorted in descending order by GitHub_Stars ⭐.
 
-| 📦 Repository & Link | ⭐ GitHub Stars | 🏷️ Primary Language | 🛠️ Architecture & Specialization |
+| 📦 Repository & Link | ⭐ GitHub_Stars | 🏷️ Primary Language | 🛠️ Architecture & Specialization |
 | :--- | :---: | :---: | :--- |
 | **[three.js](https://github.com/mrdoob/three.js)** | [![Stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social&color=white)](https://github.com/mrdoob/three.js/stargazers) | JavaScript | Industry-standard WebGL/WebGPU 3D library containing comprehensive, highly optimized Vector2/3/4, Matrix3/4, Quaternion, Ray, Frustum, Box3, and Sphere spatial math classes. |
 | **[Julia Base & LinearAlgebra](https://github.com/JuliaLang/julia)** | [![Stars](https://img.shields.io/github/stars/JuliaLang/julia?style=social&color=white)](https://github.com/JuliaLang/julia/stargazers) | Julia / C++ | LLVM-compiled high-performance dynamic programming language engineered from the ground up for technical vector math, dense/sparse matrices, and native SIMD vectorization. |
